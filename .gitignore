@@ -6,3 +6,9 @@ test.cpp
 build/
 bin/
 lib/
+.idea/
+.vscode/
+debug/
+build_vs/
+ubuntu-build/
+cmake-build-debug/
